@@ -1,0 +1,34 @@
+1733215451867	Rename resource 'demo-config.xml'
+1733217820364	Move 'style.css' to 'assets'
+1733217824143	Move 'favicon.ico' to 'assets'
+1733217881299	Copy folder
+1733217937905	Move 7 resources to 'user'
+1733219431163	Move 'assets' to 'webapp'
+1733220853026	Rename type 'HomeController'
+1733232697519	Rename resource 'demo-config.xml'
+1733234002896	Move 2 resources to 'assets'
+1733234048734	Copy folder
+1733234174729	Move 7 resources to 'user'
+1733237482875	Move 'product.jsp' to 'user'
+1733285788856	Rename type 'HomeDao'
+1733285843564	Rename package 'DiamonShop.Dao'
+1733285854384	Rename package 'DiamonShop.Dto'
+1733285868304	Rename package 'DiamonShop.Entity'
+1733285879695	Rename package 'DiamonShop.Service'
+1733285899514	Rename package 'DiamonShop.UserController'
+1733285938802	Copy packages
+1733285986801	Delete elements
+1733286010179	Rename package 'Service.copy'
+1733286025557	Copy package
+1733286031354	Delete element
+1733286064082	Delete element
+1733286082343	Rename package 'Controller'
+1733286097635	Rename package 'Dao'
+1733286118700	Rename package 'Entity'
+1733286134499	Rename package 'Service'
+1733286409336	Move compilation unit
+1733319251569	Rename type 'IHome'
+1733319263342	Rename type 'HomeImplements'
+1733319289963	Rename type 'HomeImplementsService'
+1733331552702	Rename type 'Menu'
+1733403461030	Rename type 'Product'

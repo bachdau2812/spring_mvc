@@ -1,0 +1,3 @@
+boot-java.support-spring-xml-config.on=true
+boot-java.support-spring-xml-config.scan-folders-globs=src/main/webapp/WEB-INF
+eclipse.preferences.version=1
